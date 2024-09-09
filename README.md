@@ -7,7 +7,6 @@ I’m a data scientist with a passion for leveraging data to solve real-world pr
 * Data Science for Social Good
 * Natural Language Processing
 * Predictive Analytics
-* Competitive Intelligence
 
 🌱 I’m currently learning:
 
