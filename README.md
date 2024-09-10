@@ -13,7 +13,7 @@ Feel free to download and explore!
 👋 Hi, I’m @edwnhsu!
 I’m a data scientist with a passion for leveraging data to solve real-world problems. My journey in data science has been shaped by my curiosity and dedication to continuous learning. I enjoy applying machine learning, data analysis, and natural language processing to create impactful solutions.
 
-👀 I’m interested in:
+💻 I’m interested in:
 
 * Machine Learning and AI
 * Data Science for Social Good
@@ -30,14 +30,20 @@ I’m a data scientist with a passion for leveraging data to solve real-world pr
 
 * LinkedIn: linkedin.com/in/yuwei-hsu-78892121b
 * Email: edwinhsu@uchicago.edu
-<br>
+
 For those who are current or prospective students in the UChicago Applied Data Science (ADS) program, or if you're interested in life in Vancouver or UBC, feel free to reach out with any questions! I'm happy to help and share my experiences.
 <br>
-😄 Pronouns: He/Him
-
+<br>
+<br>
 ⚡ Fun fact: 
 
 I’m originally from Taiwan 🇹🇼 and love exploring data in creative ways—whether it's for fun projects or real-world applications. I'm currently working towards settling in Canada 🇨🇦, especially in Vancouver, where I can combine my passion for data with the vibrant lifestyle the city offers. Beyond data, I’m a big fan of Minecraft and love expressing myself through singing, diving into music and movies, and exploring nature through hiking. Vancouver’s blend of outdoor beauty and urban life feels like the perfect place for these passions to thrive!
+
+🧑🏻‍💻 Pronouns: He/Him
+<br>
+<br>
+<br>
+
 <!---
 edwnhsu/edwnhsu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
