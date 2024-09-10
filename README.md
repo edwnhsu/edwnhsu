@@ -30,6 +30,8 @@ I’m a data scientist with a passion for leveraging data to solve real-world pr
 
 * LinkedIn: linkedin.com/in/yuwei-hsu-78892121b
 * Email: edwinhsu@uchicago.edu
+<br>
+For those who are prospective or current students in the UChicago Applied Data Science (ADS) program, please feel free to reach out if you have any questions or need advice! I'm happy to help.
 
 😄 Pronouns: He/Him
 
