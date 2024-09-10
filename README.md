@@ -31,8 +31,8 @@ I’m a data scientist with a passion for leveraging data to solve real-world pr
 * LinkedIn: linkedin.com/in/yuwei-hsu-78892121b
 * Email: edwinhsu@uchicago.edu
 <br>
-For those who are prospective or current students in the UChicago Applied Data Science (ADS) program, please feel free to reach out if you have any questions or need advice! I'm happy to help.
-
+For those who are current or prospective students in the UChicago Applied Data Science (ADS) program, or if you're interested in life in Vancouver or UBC, feel free to reach out with any questions! I'm happy to help and share my experiences.
+<br>
 😄 Pronouns: He/Him
 
 ⚡ Fun fact: 
