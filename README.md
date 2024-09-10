@@ -40,7 +40,7 @@ For those who are current or prospective students in the UChicago Applied Data S
 <br>
 ⚡ Fun fact: 
 
-I’m originally from Taiwan 🇹🇼 and love exploring data in creative ways—whether it's for fun projects or real-world applications. I'm currently working towards settling in Canada 🇨🇦, especially in Vancouver, where I can combine my passion for data with the vibrant lifestyle the city offers. Beyond data, I’m a big fan of Minecraft and love expressing myself through singing, diving into music and movies, and exploring nature through hiking. Vancouver’s blend of outdoor beauty and urban life feels like the perfect place for these passions to thrive!
+I’m originally from Taiwan 🇹🇼 and love exploring data in creative ways—whether it's for fun projects or real-world applications. I'm currently working towards settling in Canada 🇨🇦, especially in Vancouver, where I can combine my passion for data with the vibrant lifestyle the city offers. Beyond data, I’m a big fan of Minecraft and love expressing myself through singing, diving into music and movies, and exploring nature through hiking. Vancouver’s blend of outdoor beauty and urban life feels like the perfect place for these passions to thrive.
 <br>
 <br>
 <br>
