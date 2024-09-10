@@ -1,3 +1,15 @@
+**Welcome to My GitHub!**
+
+If you're looking to explore the projects I've worked on, please feel free to visit the repositories such as **ML-DL Projects** or **NLP Projects**. These repositories contain Jupyter Notebook files that you can download to view the full code and execution.
+
+Additionally, you can find HTML or PDF files for each project, which provide a quick overview and visualization of what the projects are doing, offering a convenient way to understand the objectives and results without running the code.
+
+Feel free to download and explore!
+<br>
+<br>
+<br>
+**About me**
+
 👋 Hi, I’m @edwnhsu!
 I’m a data scientist with a passion for leveraging data to solve real-world problems. My journey in data science has been shaped by my curiosity and dedication to continuous learning. I enjoy applying machine learning, data analysis, and natural language processing to create impactful solutions.
 
@@ -23,8 +35,7 @@ I’m a data scientist with a passion for leveraging data to solve real-world pr
 
 ⚡ Fun fact: 
 
-I’m originally from Taiwan 🇹🇼 and love exploring data in creative ways—whether it's for fun projects or real-world applications. Also, I’m a big fan of minecraft!
-
+I’m originally from Taiwan 🇹🇼 and love exploring data in creative ways—whether it's for fun projects or real-world applications. I'm currently working towards settling in Canada 🇨🇦, especially in Vancouver, where I can combine my passion for data with the vibrant lifestyle the city offers. Beyond data, I’m a big fan of Minecraft and love expressing myself through singing, diving into music and movies, and exploring nature through hiking. Vancouver’s blend of outdoor beauty and urban life feels like the perfect place for these passions to thrive!
 <!---
 edwnhsu/edwnhsu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
