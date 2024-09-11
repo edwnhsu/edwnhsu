@@ -1,4 +1,4 @@
-**Welcome to My GitHub!**
+### Welcome to My GitHub!
 
 If you're looking to explore the projects I've worked on, please feel free to visit the repositories such as **ML-DL Projects** or **NLP Projects**. These repositories contain Jupyter Notebook files that you can download to view the full code and execution.
 
@@ -8,7 +8,7 @@ Feel free to download and explore!
 <br>
 <br>
 <br>
-**About me**
+### About me
 
 👋 Hi, I’m @edwnhsu (I also go by Edwin or Yu-Wei)!
 <br>
@@ -16,20 +16,20 @@ I’m a data scientist with a passion for leveraging data to solve real-world pr
 <br>
 <br>
 <br>
-💻 I’m interested in:
+💻 **I’m interested in:**
 
 * Machine Learning and AI
 * Data Science for Social Good
 * Natural Language Processing
 * Predictive Analytics
 
-🌱 I’m currently learning:
+🌱 **I’m currently learning:**
 
 * Deep Learning with TensorFlow
 * Advanced Natural Language Processing techniques
 * Cloud computing for data science (AWS, GCP)
 
-📫 How to reach me:
+📫 **How to reach me:**
 
 * LinkedIn: linkedin.com/in/yuwei-hsu-78892121b
 * Email: edwinhsu@uchicago.edu
@@ -38,13 +38,13 @@ For those who are current or prospective students in the UChicago Applied Data S
 <br>
 <br>
 <br>
-⚡ Fun fact: 
+⚡ **Fun fact:**
 
 I’m originally from Taiwan 🇹🇼 and love exploring data in creative ways—whether it's for fun projects or real-world applications. I'm currently working towards settling in Canada 🇨🇦, especially in Vancouver, where I can combine my passion for data with the vibrant lifestyle the city offers. Beyond data, I’m a big fan of Minecraft and love expressing myself through singing, diving into music and movies, and exploring nature through hiking. Vancouver’s blend of outdoor beauty and urban life feels like the perfect place for these passions to thrive.
 <br>
 <br>
 <br>
-🧑🏻‍💻 Pronouns: He/Him
+🧑🏻‍💻 **Pronouns:** He/Him
 
 <!---
 edwnhsu/edwnhsu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
