@@ -12,7 +12,7 @@ Feel free to download and explore!
 
 👋 Hi, I’m @edwnhsu (I also go by Edwin or Yu-Wei)!
 <br>
-I’m a data scientist with a passion for leveraging data to solve real-world problems. My journey in data science has been shaped by my curiosity and dedication to continuous learning. I enjoy applying machine learning, data analysis, and natural language processing to create impactful solutions.
+I’m a prospective data scientist with a passion for leveraging data to solve real-world problems. My journey in data science has been shaped by my curiosity and dedication to continuous learning. I enjoy applying machine learning, data analysis, and natural language processing to create impactful solutions.
 <br>
 <br>
 <br>
