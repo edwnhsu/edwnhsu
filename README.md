@@ -16,20 +16,20 @@ I focus on solving real-world problems through data, which makes me a data scien
 <br>
 <br>
 <br>
-💻 **I am keen on:**
+**I am keen on:**
 
 * Machine Learning and AI
 * Data Science for Social Good
 * Natural Language Processing
 * Psychological Data Based Studies
 
-☁ **I am a novice in:**
+**I am a novice in:**
 
 * Deep Learning with TensorFlow
 * Advanced Natural Language Processing techniques
 * Cloud computing for data science (AWS, GCP)
 
-📫 **You can contact me through:**
+**You can contact me through:**
 
 * LinkedIn: linkedin.com/in/yuwei-hsu-78892121b
 * Email: edwinhsu@uchicago.edu
@@ -38,13 +38,13 @@ If you are a current or a prospective student of the UChicago Applied Data Scien
 <br>
 <br>
 <br>
-🧑🏻‍💻 **Fun fact:**
+**Fun fact:**
 
 I’m originally from Taiwan 🇹🇼 and love exploring data in creative ways—whether it's for fun projects or real-world applications. I'm currently working towards settling in Canada 🇨🇦, especially in Vancouver, where I can combine my passion for data with the vibrant lifestyle the city offers. Beyond data, I’m a big fan of Minecraft and love expressing myself through singing, diving into music and movies, and exploring nature through hiking. Vancouver’s blend of outdoor beauty and urban life feels like the perfect place for these passions to thrive.
 <br>
 <br>
 <br>
-🎧 **Pronouns:** He/Him
+**Pronouns:** He/Him
 
 <!---
 edwnhsu/edwnhsu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
